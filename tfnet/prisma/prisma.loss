@@ -1,0 +1,432 @@
+2016-09-23 17:59:23,139 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 17:59:23,139 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 17:59:23,139 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/color.jpg
+2016-09-23 17:59:23,139 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test1.jpg
+2016-09-23 17:59:30,223 [INFO] Style loss @ relu1_1 : 110.257
+2016-09-23 17:59:30,517 [INFO] Style loss @ relu1_2 : 47105.4
+2016-09-23 17:59:30,879 [INFO] Style loss @ relu2_1 : 2383.66
+2016-09-23 17:59:31,371 [INFO] Style loss @ relu2_2 : 6172.66
+2016-09-23 17:59:31,928 [INFO] Style loss @ relu3_1 : 667.467
+2016-09-23 17:59:32,937 [INFO] Style loss @ relu4_1 : 9247.95
+2016-09-23 17:59:34,460 [INFO] Style loss @ relu5_1 : 0.30368
+2016-09-23 17:59:35,493 [INFO] Content loss @ relu3_1 : 44938.5
+2016-09-23 17:59:37,688 [INFO] Content loss @ relu4_2 : 138799
+2016-09-23 17:59:39,490 [INFO] Style loss: 65687.7
+2016-09-23 17:59:41,692 [INFO] Content loss: 183738
+2016-09-23 17:59:41,698 [INFO] TV loss: 866.375
+2016-09-23 17:59:44,680 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 17:59:44,680 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 17:59:44,680 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/color.jpg
+2016-09-23 17:59:44,680 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test2.jpg
+2016-09-23 17:59:51,731 [INFO] Style loss @ relu1_1 : 149.999
+2016-09-23 17:59:52,019 [INFO] Style loss @ relu1_2 : 61996.5
+2016-09-23 17:59:52,377 [INFO] Style loss @ relu2_1 : 1497.93
+2016-09-23 17:59:52,903 [INFO] Style loss @ relu2_2 : 5810.08
+2016-09-23 17:59:53,453 [INFO] Style loss @ relu3_1 : 843.125
+2016-09-23 17:59:54,438 [INFO] Style loss @ relu4_1 : 10204.5
+2016-09-23 17:59:55,907 [INFO] Style loss @ relu5_1 : 0.175587
+2016-09-23 17:59:56,934 [INFO] Content loss @ relu3_1 : 34719.8
+2016-09-23 17:59:59,121 [INFO] Content loss @ relu4_2 : 107252
+2016-09-23 18:00:00,984 [INFO] Style loss: 80502.3
+2016-09-23 18:00:03,964 [INFO] Content loss: 141971
+2016-09-23 18:00:03,971 [INFO] TV loss: 776.583
+2016-09-23 18:00:07,019 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:00:07,019 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:00:07,019 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/color.jpg
+2016-09-23 18:00:07,019 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test3.jpg
+2016-09-23 18:00:14,532 [INFO] Style loss @ relu1_1 : 176.46
+2016-09-23 18:00:14,836 [INFO] Style loss @ relu1_2 : 77392.2
+2016-09-23 18:00:15,186 [INFO] Style loss @ relu2_1 : 7964.33
+2016-09-23 18:00:15,676 [INFO] Style loss @ relu2_2 : 27092.3
+2016-09-23 18:00:16,221 [INFO] Style loss @ relu3_1 : 2774.11
+2016-09-23 18:00:17,210 [INFO] Style loss @ relu4_1 : 18830.5
+2016-09-23 18:00:18,650 [INFO] Style loss @ relu5_1 : 0.286777
+2016-09-23 18:00:19,674 [INFO] Content loss @ relu3_1 : 58376.4
+2016-09-23 18:00:21,862 [INFO] Content loss @ relu4_2 : 162812
+2016-09-23 18:00:23,534 [INFO] Style loss: 134230
+2016-09-23 18:00:25,723 [INFO] Content loss: 221189
+2016-09-23 18:00:25,729 [INFO] TV loss: 1040.07
+2016-09-23 18:00:28,613 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:00:28,613 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:00:28,613 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/color.jpg
+2016-09-23 18:00:28,613 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test4.jpg
+2016-09-23 18:00:35,773 [INFO] Style loss @ relu1_1 : 86.2705
+2016-09-23 18:00:36,053 [INFO] Style loss @ relu1_2 : 39207.9
+2016-09-23 18:00:36,397 [INFO] Style loss @ relu2_1 : 1604.09
+2016-09-23 18:00:36,876 [INFO] Style loss @ relu2_2 : 8519.24
+2016-09-23 18:00:37,420 [INFO] Style loss @ relu3_1 : 1180.69
+2016-09-23 18:00:38,408 [INFO] Style loss @ relu4_1 : 11592.2
+2016-09-23 18:00:39,931 [INFO] Style loss @ relu5_1 : 0.191799
+2016-09-23 18:00:40,955 [INFO] Content loss @ relu3_1 : 34505.2
+2016-09-23 18:00:43,744 [INFO] Content loss @ relu4_2 : 107164
+2016-09-23 18:00:45,512 [INFO] Style loss: 62190.5
+2016-09-23 18:00:47,734 [INFO] Content loss: 141669
+2016-09-23 18:00:47,741 [INFO] TV loss: 767.152
+2016-09-23 18:00:50,748 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:00:50,748 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:00:50,749 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/color.jpg
+2016-09-23 18:00:50,749 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test5.jpg
+2016-09-23 18:00:58,341 [INFO] Style loss @ relu1_1 : 682.412
+2016-09-23 18:00:59,236 [INFO] Style loss @ relu1_2 : 382872
+2016-09-23 18:00:59,676 [INFO] Style loss @ relu2_1 : 6911.97
+2016-09-23 18:01:00,268 [INFO] Style loss @ relu2_2 : 20691
+2016-09-23 18:01:00,887 [INFO] Style loss @ relu3_1 : 1938.63
+2016-09-23 18:01:02,012 [INFO] Style loss @ relu4_1 : 16074.5
+2016-09-23 18:01:03,519 [INFO] Style loss @ relu5_1 : 0.182475
+2016-09-23 18:01:04,845 [INFO] Content loss @ relu3_1 : 44680.4
+2016-09-23 18:01:07,149 [INFO] Content loss @ relu4_2 : 133560
+2016-09-23 18:01:09,514 [INFO] Style loss: 429171
+2016-09-23 18:01:11,758 [INFO] Content loss: 178241
+2016-09-23 18:01:11,764 [INFO] TV loss: 579.552
+2016-09-23 18:01:15,095 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:01:15,095 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:01:15,095 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/curly.jpg
+2016-09-23 18:01:15,095 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test1.jpg
+2016-09-23 18:01:22,339 [INFO] Style loss @ relu1_1 : 4.71402
+2016-09-23 18:01:22,651 [INFO] Style loss @ relu1_2 : 1622.85
+2016-09-23 18:01:23,005 [INFO] Style loss @ relu2_1 : 227.342
+2016-09-23 18:01:23,489 [INFO] Style loss @ relu2_2 : 742.386
+2016-09-23 18:01:24,037 [INFO] Style loss @ relu3_1 : 60.5309
+2016-09-23 18:01:25,039 [INFO] Style loss @ relu4_1 : 1655.27
+2016-09-23 18:01:26,513 [INFO] Style loss @ relu5_1 : 0.0723368
+2016-09-23 18:01:27,577 [INFO] Content loss @ relu3_1 : 24724.3
+2016-09-23 18:01:29,881 [INFO] Content loss @ relu4_2 : 90683.8
+2016-09-23 18:01:31,613 [INFO] Style loss: 4313.17
+2016-09-23 18:01:33,853 [INFO] Content loss: 115408
+2016-09-23 18:01:33,860 [INFO] TV loss: 1809.3
+2016-09-23 18:01:36,529 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:01:36,529 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:01:36,529 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/curly.jpg
+2016-09-23 18:01:36,529 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test2.jpg
+2016-09-23 18:01:43,607 [INFO] Style loss @ relu1_1 : 29.6924
+2016-09-23 18:01:43,890 [INFO] Style loss @ relu1_2 : 9135.17
+2016-09-23 18:01:44,238 [INFO] Style loss @ relu2_1 : 577.038
+2016-09-23 18:01:44,734 [INFO] Style loss @ relu2_2 : 978.091
+2016-09-23 18:01:45,276 [INFO] Style loss @ relu3_1 : 73.4905
+2016-09-23 18:01:46,265 [INFO] Style loss @ relu4_1 : 995.463
+2016-09-23 18:01:47,672 [INFO] Style loss @ relu5_1 : 0.0268504
+2016-09-23 18:01:48,705 [INFO] Content loss @ relu3_1 : 14828.6
+2016-09-23 18:01:50,915 [INFO] Content loss @ relu4_2 : 60057.8
+2016-09-23 18:01:52,605 [INFO] Style loss: 11789
+2016-09-23 18:01:54,827 [INFO] Content loss: 74886.4
+2016-09-23 18:01:54,833 [INFO] TV loss: 1331.38
+2016-09-23 18:01:57,114 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:01:57,114 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:01:57,114 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/curly.jpg
+2016-09-23 18:01:57,114 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test3.jpg
+2016-09-23 18:02:04,182 [INFO] Style loss @ relu1_1 : 77.4624
+2016-09-23 18:02:04,476 [INFO] Style loss @ relu1_2 : 27622.4
+2016-09-23 18:02:04,829 [INFO] Style loss @ relu2_1 : 965.81
+2016-09-23 18:02:05,314 [INFO] Style loss @ relu2_2 : 2721.87
+2016-09-23 18:02:05,863 [INFO] Style loss @ relu3_1 : 157.47
+2016-09-23 18:02:06,842 [INFO] Style loss @ relu4_1 : 1983.73
+2016-09-23 18:02:08,276 [INFO] Style loss @ relu5_1 : 0.0284796
+2016-09-23 18:02:09,301 [INFO] Content loss @ relu3_1 : 22763.9
+2016-09-23 18:02:11,589 [INFO] Content loss @ relu4_2 : 79271.5
+2016-09-23 18:02:13,330 [INFO] Style loss: 33528.8
+2016-09-23 18:02:15,550 [INFO] Content loss: 102035
+2016-09-23 18:02:15,557 [INFO] TV loss: 2437.99
+2016-09-23 18:02:18,455 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:02:18,455 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:02:18,455 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/curly.jpg
+2016-09-23 18:02:18,455 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test4.jpg
+2016-09-23 18:02:26,298 [INFO] Style loss @ relu1_1 : 21.8698
+2016-09-23 18:02:26,611 [INFO] Style loss @ relu1_2 : 7355.8
+2016-09-23 18:02:26,970 [INFO] Style loss @ relu2_1 : 1222.02
+2016-09-23 18:02:27,525 [INFO] Style loss @ relu2_2 : 2120.05
+2016-09-23 18:02:28,092 [INFO] Style loss @ relu3_1 : 149.257
+2016-09-23 18:02:29,071 [INFO] Style loss @ relu4_1 : 1718.79
+2016-09-23 18:02:30,803 [INFO] Style loss @ relu5_1 : 0.0366916
+2016-09-23 18:02:32,057 [INFO] Content loss @ relu3_1 : 15439.8
+2016-09-23 18:02:35,640 [INFO] Content loss @ relu4_2 : 65031.2
+2016-09-23 18:02:37,480 [INFO] Style loss: 12587.8
+2016-09-23 18:02:39,755 [INFO] Content loss: 80471
+2016-09-23 18:02:39,761 [INFO] TV loss: 1568.75
+2016-09-23 18:02:44,039 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:02:44,039 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:02:44,039 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/curly.jpg
+2016-09-23 18:02:44,039 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test5.jpg
+2016-09-23 18:02:52,623 [INFO] Style loss @ relu1_1 : 44.0442
+2016-09-23 18:02:53,099 [INFO] Style loss @ relu1_2 : 14899.5
+2016-09-23 18:02:53,693 [INFO] Style loss @ relu2_1 : 2895.33
+2016-09-23 18:02:54,341 [INFO] Style loss @ relu2_2 : 3881.12
+2016-09-23 18:02:54,924 [INFO] Style loss @ relu3_1 : 187.839
+2016-09-23 18:02:55,985 [INFO] Style loss @ relu4_1 : 1247.51
+2016-09-23 18:02:57,655 [INFO] Style loss @ relu5_1 : 0.0220729
+2016-09-23 18:02:58,759 [INFO] Content loss @ relu3_1 : 20826.4
+2016-09-23 18:03:01,437 [INFO] Content loss @ relu4_2 : 65965.7
+2016-09-23 18:03:03,508 [INFO] Style loss: 23155.4
+2016-09-23 18:03:05,969 [INFO] Content loss: 86792.2
+2016-09-23 18:03:05,975 [INFO] TV loss: 1671
+2016-09-23 18:03:08,996 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:03:08,996 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:03:08,997 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:03:08,997 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test1.jpg
+2016-09-23 18:03:16,551 [INFO] Style loss @ relu1_1 : 35.3899
+2016-09-23 18:03:16,895 [INFO] Style loss @ relu1_2 : 15712.3
+2016-09-23 18:03:17,344 [INFO] Style loss @ relu2_1 : 1345.03
+2016-09-23 18:03:17,929 [INFO] Style loss @ relu2_2 : 6233.27
+2016-09-23 18:03:18,511 [INFO] Style loss @ relu3_1 : 578.569
+2016-09-23 18:03:19,582 [INFO] Style loss @ relu4_1 : 9533.82
+2016-09-23 18:03:21,258 [INFO] Style loss @ relu5_1 : 0.104844
+2016-09-23 18:03:22,552 [INFO] Content loss @ relu3_1 : 8093.68
+2016-09-23 18:03:25,127 [INFO] Content loss @ relu4_2 : 28185.4
+2016-09-23 18:03:27,159 [INFO] Style loss: 33438.5
+2016-09-23 18:03:29,862 [INFO] Content loss: 36279.1
+2016-09-23 18:03:29,872 [INFO] TV loss: 3166.4
+2016-09-23 18:03:33,256 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:03:33,256 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:03:33,256 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:03:33,256 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test2.jpg
+2016-09-23 18:03:40,153 [INFO] Style loss @ relu1_1 : 177.533
+2016-09-23 18:03:40,428 [INFO] Style loss @ relu1_2 : 51718.4
+2016-09-23 18:03:40,773 [INFO] Style loss @ relu2_1 : 8198.53
+2016-09-23 18:03:41,465 [INFO] Style loss @ relu2_2 : 17539.9
+2016-09-23 18:03:42,079 [INFO] Style loss @ relu3_1 : 1574.9
+2016-09-23 18:03:43,677 [INFO] Style loss @ relu4_1 : 8509.45
+2016-09-23 18:03:45,524 [INFO] Style loss @ relu5_1 : 0.0572875
+2016-09-23 18:03:46,807 [INFO] Content loss @ relu3_1 : 2814.97
+2016-09-23 18:03:49,332 [INFO] Content loss @ relu4_2 : 12440.2
+2016-09-23 18:03:51,214 [INFO] Style loss: 87718.8
+2016-09-23 18:03:53,608 [INFO] Content loss: 15255.1
+2016-09-23 18:03:53,615 [INFO] TV loss: 754.654
+2016-09-23 18:03:56,969 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:03:56,969 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:03:56,969 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:03:56,969 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test3.jpg
+2016-09-23 18:04:07,744 [INFO] Style loss @ relu1_1 : 25.8691
+2016-09-23 18:04:08,028 [INFO] Style loss @ relu1_2 : 8521.17
+2016-09-23 18:04:08,502 [INFO] Style loss @ relu2_1 : 1050.55
+2016-09-23 18:04:09,273 [INFO] Style loss @ relu2_2 : 5184.08
+2016-09-23 18:04:10,130 [INFO] Style loss @ relu3_1 : 660.869
+2016-09-23 18:04:11,660 [INFO] Style loss @ relu4_1 : 8767.59
+2016-09-23 18:04:13,316 [INFO] Style loss @ relu5_1 : 0.211363
+2016-09-23 18:04:14,352 [INFO] Content loss @ relu3_1 : 5799.2
+2016-09-23 18:04:16,924 [INFO] Content loss @ relu4_2 : 25592.7
+2016-09-23 18:04:19,378 [INFO] Style loss: 24210.3
+2016-09-23 18:04:22,452 [INFO] Content loss: 31391.9
+2016-09-23 18:04:22,468 [INFO] TV loss: 2381.65
+2016-09-23 18:04:25,930 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:04:25,930 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:04:25,930 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:04:25,930 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test4.jpg
+2016-09-23 18:04:34,680 [INFO] Style loss @ relu1_1 : 66.8331
+2016-09-23 18:04:35,033 [INFO] Style loss @ relu1_2 : 19948.4
+2016-09-23 18:04:35,406 [INFO] Style loss @ relu2_1 : 1986.31
+2016-09-23 18:04:36,062 [INFO] Style loss @ relu2_2 : 6624.96
+2016-09-23 18:04:36,777 [INFO] Style loss @ relu3_1 : 744.736
+2016-09-23 18:04:38,349 [INFO] Style loss @ relu4_1 : 7105.13
+2016-09-23 18:04:40,514 [INFO] Style loss @ relu5_1 : 0.0596096
+2016-09-23 18:04:41,738 [INFO] Content loss @ relu3_1 : 5797.33
+2016-09-23 18:04:44,977 [INFO] Content loss @ relu4_2 : 22507.8
+2016-09-23 18:04:47,099 [INFO] Style loss: 36476.4
+2016-09-23 18:04:50,066 [INFO] Content loss: 28305.2
+2016-09-23 18:04:50,073 [INFO] TV loss: 1659.33
+2016-09-23 18:04:54,124 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:04:54,125 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:04:54,125 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:04:54,125 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test5.jpg
+2016-09-23 18:05:03,881 [INFO] Style loss @ relu1_1 : 106.377
+2016-09-23 18:05:04,294 [INFO] Style loss @ relu1_2 : 32129.4
+2016-09-23 18:05:04,673 [INFO] Style loss @ relu2_1 : 6177.02
+2016-09-23 18:05:05,402 [INFO] Style loss @ relu2_2 : 14746.2
+2016-09-23 18:05:06,063 [INFO] Style loss @ relu3_1 : 1382.38
+2016-09-23 18:05:07,221 [INFO] Style loss @ relu4_1 : 8501.84
+2016-09-23 18:05:08,821 [INFO] Style loss @ relu5_1 : 0.108501
+2016-09-23 18:05:09,941 [INFO] Content loss @ relu3_1 : 4066.63
+2016-09-23 18:05:12,490 [INFO] Content loss @ relu4_2 : 20442.5
+2016-09-23 18:05:15,130 [INFO] Style loss: 63043.3
+2016-09-23 18:05:17,968 [INFO] Content loss: 24509.1
+2016-09-23 18:05:17,975 [INFO] TV loss: 1875.59
+2016-09-23 18:05:21,796 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:05:21,796 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:05:21,796 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:05:21,796 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test6.jpg
+2016-09-23 18:05:30,216 [INFO] Style loss @ relu1_1 : 44.8502
+2016-09-23 18:05:30,682 [INFO] Style loss @ relu1_2 : 15751.2
+2016-09-23 18:05:31,047 [INFO] Style loss @ relu2_1 : 847.492
+2016-09-23 18:05:31,538 [INFO] Style loss @ relu2_2 : 4305.92
+2016-09-23 18:05:32,147 [INFO] Style loss @ relu3_1 : 613.906
+2016-09-23 18:05:33,182 [INFO] Style loss @ relu4_1 : 6803.45
+2016-09-23 18:05:35,067 [INFO] Style loss @ relu5_1 : 0.116728
+2016-09-23 18:05:36,383 [INFO] Content loss @ relu3_1 : 5990.79
+2016-09-23 18:05:39,195 [INFO] Content loss @ relu4_2 : 22743.4
+2016-09-23 18:05:41,223 [INFO] Style loss: 28367
+2016-09-23 18:05:43,664 [INFO] Content loss: 28734.2
+2016-09-23 18:05:43,671 [INFO] TV loss: 2140.14
+2016-09-23 18:05:47,272 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:05:47,273 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:05:47,273 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/mosaic.jpg
+2016-09-23 18:05:47,273 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test7.jpg
+2016-09-23 18:05:57,048 [INFO] Style loss @ relu1_1 : 234.774
+2016-09-23 18:05:57,562 [INFO] Style loss @ relu1_2 : 60204.7
+2016-09-23 18:05:57,970 [INFO] Style loss @ relu2_1 : 9000.02
+2016-09-23 18:05:58,770 [INFO] Style loss @ relu2_2 : 20076.2
+2016-09-23 18:05:59,331 [INFO] Style loss @ relu3_1 : 1658.31
+2016-09-23 18:06:00,332 [INFO] Style loss @ relu4_1 : 10301.3
+2016-09-23 18:06:02,295 [INFO] Style loss @ relu5_1 : 0.102631
+2016-09-23 18:06:03,509 [INFO] Content loss @ relu3_1 : 2557.79
+2016-09-23 18:06:05,815 [INFO] Content loss @ relu4_2 : 11875.9
+2016-09-23 18:06:07,969 [INFO] Style loss: 101475
+2016-09-23 18:06:10,775 [INFO] Content loss: 14433.7
+2016-09-23 18:06:10,783 [INFO] TV loss: 559.82
+2016-09-23 18:06:14,988 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:06:14,988 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:06:14,988 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/pink.jpg
+2016-09-23 18:06:14,988 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test1.jpg
+2016-09-23 18:06:25,285 [INFO] Style loss @ relu1_1 : 256.321
+2016-09-23 18:06:25,631 [INFO] Style loss @ relu1_2 : 162540
+2016-09-23 18:06:26,029 [INFO] Style loss @ relu2_1 : 6363.63
+2016-09-23 18:06:26,936 [INFO] Style loss @ relu2_2 : 9622.7
+2016-09-23 18:06:27,815 [INFO] Style loss @ relu3_1 : 978.308
+2016-09-23 18:06:29,194 [INFO] Style loss @ relu4_1 : 10438.7
+2016-09-23 18:06:30,763 [INFO] Style loss @ relu5_1 : 0.263966
+2016-09-23 18:06:31,779 [INFO] Content loss @ relu3_1 : 33303.6
+2016-09-23 18:06:34,140 [INFO] Content loss @ relu4_2 : 126329
+2016-09-23 18:06:35,977 [INFO] Style loss: 190200
+2016-09-23 18:06:38,420 [INFO] Content loss: 159632
+2016-09-23 18:06:38,426 [INFO] TV loss: 1032.72
+2016-09-23 18:06:42,099 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:06:42,099 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:06:42,099 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/pink.jpg
+2016-09-23 18:06:42,099 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test2.jpg
+2016-09-23 18:06:51,044 [INFO] Style loss @ relu1_1 : 96.1196
+2016-09-23 18:06:51,394 [INFO] Style loss @ relu1_2 : 40462.8
+2016-09-23 18:06:51,818 [INFO] Style loss @ relu2_1 : 1826.39
+2016-09-23 18:06:52,368 [INFO] Style loss @ relu2_2 : 5353.15
+2016-09-23 18:06:53,016 [INFO] Style loss @ relu3_1 : 462.192
+2016-09-23 18:06:54,156 [INFO] Style loss @ relu4_1 : 6355.22
+2016-09-23 18:06:56,153 [INFO] Style loss @ relu5_1 : 0.100182
+2016-09-23 18:06:57,563 [INFO] Content loss @ relu3_1 : 23962.2
+2016-09-23 18:07:00,216 [INFO] Content loss @ relu4_2 : 94669.1
+2016-09-23 18:07:02,206 [INFO] Style loss: 54556
+2016-09-23 18:07:04,759 [INFO] Content loss: 118631
+2016-09-23 18:07:04,765 [INFO] TV loss: 755.998
+2016-09-23 18:07:09,127 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:07:09,127 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:07:09,127 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/pink.jpg
+2016-09-23 18:07:09,127 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test3.jpg
+2016-09-23 18:07:19,199 [INFO] Style loss @ relu1_1 : 96.5811
+2016-09-23 18:07:19,521 [INFO] Style loss @ relu1_2 : 57690.8
+2016-09-23 18:07:20,280 [INFO] Style loss @ relu2_1 : 3642.69
+2016-09-23 18:07:20,903 [INFO] Style loss @ relu2_2 : 15848.5
+2016-09-23 18:07:21,668 [INFO] Style loss @ relu3_1 : 1752.42
+2016-09-23 18:07:23,084 [INFO] Style loss @ relu4_1 : 12007.3
+2016-09-23 18:07:25,060 [INFO] Style loss @ relu5_1 : 0.172515
+2016-09-23 18:07:26,351 [INFO] Content loss @ relu3_1 : 38964.3
+2016-09-23 18:07:28,942 [INFO] Content loss @ relu4_2 : 130447
+2016-09-23 18:07:30,654 [INFO] Style loss: 91038.5
+2016-09-23 18:07:33,156 [INFO] Content loss: 169411
+2016-09-23 18:07:33,163 [INFO] TV loss: 1390.19
+2016-09-23 18:07:36,585 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:07:36,586 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:07:36,586 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/pink.jpg
+2016-09-23 18:07:36,586 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test4.jpg
+2016-09-23 18:07:45,614 [INFO] Style loss @ relu1_1 : 78.7956
+2016-09-23 18:07:45,949 [INFO] Style loss @ relu1_2 : 29384.2
+2016-09-23 18:07:46,316 [INFO] Style loss @ relu2_1 : 897.799
+2016-09-23 18:07:47,214 [INFO] Style loss @ relu2_2 : 2781.43
+2016-09-23 18:07:48,024 [INFO] Style loss @ relu3_1 : 224.337
+2016-09-23 18:07:49,337 [INFO] Style loss @ relu4_1 : 4740.01
+2016-09-23 18:07:50,843 [INFO] Style loss @ relu5_1 : 0.0938202
+2016-09-23 18:07:52,473 [INFO] Content loss @ relu3_1 : 24033.3
+2016-09-23 18:07:55,137 [INFO] Content loss @ relu4_2 : 97427
+2016-09-23 18:07:57,658 [INFO] Style loss: 38106.6
+2016-09-23 18:08:00,568 [INFO] Content loss: 121460
+2016-09-23 18:08:00,574 [INFO] TV loss: 1336.72
+2016-09-23 18:08:04,225 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:08:04,225 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:08:04,225 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/pink.jpg
+2016-09-23 18:08:04,225 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test5.jpg
+2016-09-23 18:08:11,276 [INFO] Style loss @ relu1_1 : 111.836
+2016-09-23 18:08:11,537 [INFO] Style loss @ relu1_2 : 70228.5
+2016-09-23 18:08:11,870 [INFO] Style loss @ relu2_1 : 8470.89
+2016-09-23 18:08:12,415 [INFO] Style loss @ relu2_2 : 18248.5
+2016-09-23 18:08:12,961 [INFO] Style loss @ relu3_1 : 1564.85
+2016-09-23 18:08:13,925 [INFO] Style loss @ relu4_1 : 14481.9
+2016-09-23 18:08:15,365 [INFO] Style loss @ relu5_1 : 0.103513
+2016-09-23 18:08:16,365 [INFO] Content loss @ relu3_1 : 30905.6
+2016-09-23 18:08:18,534 [INFO] Content loss @ relu4_2 : 104572
+2016-09-23 18:08:20,258 [INFO] Style loss: 113107
+2016-09-23 18:08:22,425 [INFO] Content loss: 135478
+2016-09-23 18:08:22,431 [INFO] TV loss: 610.125
+2016-09-23 18:08:25,345 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:08:25,346 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:08:25,346 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/tokyo.jpg
+2016-09-23 18:08:25,346 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test1.jpg
+2016-09-23 18:08:32,285 [INFO] Style loss @ relu1_1 : 15.4491
+2016-09-23 18:08:32,675 [INFO] Style loss @ relu1_2 : 4670.83
+2016-09-23 18:08:33,161 [INFO] Style loss @ relu2_1 : 544.906
+2016-09-23 18:08:33,888 [INFO] Style loss @ relu2_2 : 2382.18
+2016-09-23 18:08:34,972 [INFO] Style loss @ relu3_1 : 258.437
+2016-09-23 18:08:36,820 [INFO] Style loss @ relu4_1 : 2559.78
+2016-09-23 18:08:38,776 [INFO] Style loss @ relu5_1 : 0.10413
+2016-09-23 18:08:40,032 [INFO] Content loss @ relu3_1 : 24848.4
+2016-09-23 18:08:43,598 [INFO] Content loss @ relu4_2 : 91104.1
+2016-09-23 18:08:45,967 [INFO] Style loss: 10431.7
+2016-09-23 18:08:49,013 [INFO] Content loss: 115953
+2016-09-23 18:08:49,019 [INFO] TV loss: 942.08
+2016-09-23 18:08:52,885 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:08:52,886 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:08:52,886 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/tokyo.jpg
+2016-09-23 18:08:52,886 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test2.jpg
+2016-09-23 18:09:01,502 [INFO] Style loss @ relu1_1 : 15.5385
+2016-09-23 18:09:01,773 [INFO] Style loss @ relu1_2 : 5528.49
+2016-09-23 18:09:02,121 [INFO] Style loss @ relu2_1 : 432.835
+2016-09-23 18:09:02,725 [INFO] Style loss @ relu2_2 : 2556.3
+2016-09-23 18:09:03,415 [INFO] Style loss @ relu3_1 : 259.162
+2016-09-23 18:09:04,880 [INFO] Style loss @ relu4_1 : 1882.64
+2016-09-23 18:09:06,851 [INFO] Style loss @ relu5_1 : 0.0408351
+2016-09-23 18:09:08,205 [INFO] Content loss @ relu3_1 : 16446
+2016-09-23 18:09:11,471 [INFO] Content loss @ relu4_2 : 67892.6
+2016-09-23 18:09:14,562 [INFO] Style loss: 10675
+2016-09-23 18:09:17,939 [INFO] Content loss: 84338.7
+2016-09-23 18:09:17,946 [INFO] TV loss: 837.694
+2016-09-23 18:09:21,429 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:09:21,429 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:09:21,429 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/tokyo.jpg
+2016-09-23 18:09:21,429 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test3.jpg
+2016-09-23 18:09:30,395 [INFO] Style loss @ relu1_1 : 45.9302
+2016-09-23 18:09:30,785 [INFO] Style loss @ relu1_2 : 22531.5
+2016-09-23 18:09:31,197 [INFO] Style loss @ relu2_1 : 1325.97
+2016-09-23 18:09:31,744 [INFO] Style loss @ relu2_2 : 4322.46
+2016-09-23 18:09:32,436 [INFO] Style loss @ relu3_1 : 377.231
+2016-09-23 18:09:33,535 [INFO] Style loss @ relu4_1 : 3436.89
+2016-09-23 18:09:35,891 [INFO] Style loss @ relu5_1 : 0.0566294
+2016-09-23 18:09:37,294 [INFO] Content loss @ relu3_1 : 30671.9
+2016-09-23 18:09:40,414 [INFO] Content loss @ relu4_2 : 100843
+2016-09-23 18:09:42,249 [INFO] Style loss: 32040.1
+2016-09-23 18:09:44,430 [INFO] Content loss: 131515
+2016-09-23 18:09:44,436 [INFO] TV loss: 1211.11
+2016-09-23 18:09:47,427 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:09:47,428 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:09:47,428 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/tokyo.jpg
+2016-09-23 18:09:47,428 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test4.jpg
+2016-09-23 18:09:55,577 [INFO] Style loss @ relu1_1 : 7.64961
+2016-09-23 18:09:55,870 [INFO] Style loss @ relu1_2 : 3189.75
+2016-09-23 18:09:56,299 [INFO] Style loss @ relu2_1 : 528.909
+2016-09-23 18:09:57,033 [INFO] Style loss @ relu2_2 : 2628.28
+2016-09-23 18:09:57,721 [INFO] Style loss @ relu3_1 : 249.162
+2016-09-23 18:09:58,819 [INFO] Style loss @ relu4_1 : 1994.51
+2016-09-23 18:10:00,654 [INFO] Style loss @ relu5_1 : 0.0368087
+2016-09-23 18:10:01,657 [INFO] Content loss @ relu3_1 : 17423.5
+2016-09-23 18:10:04,244 [INFO] Content loss @ relu4_2 : 67424.5
+2016-09-23 18:10:06,237 [INFO] Style loss: 8598.29
+2016-09-23 18:10:08,475 [INFO] Content loss: 84848
+2016-09-23 18:10:08,480 [INFO] TV loss: 862.914
+2016-09-23 18:10:11,502 [INFO] Style layers: ['relu1_1', 'relu1_2', 'relu2_1', 'relu2_2', 'relu3_1', 'relu4_1', 'relu5_1']
+2016-09-23 18:10:11,503 [INFO] Content layers: ['relu3_1', 'relu4_2']
+2016-09-23 18:10:11,503 [INFO] Style: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/tokyo.jpg
+2016-09-23 18:10:11,503 [INFO] Content: /Users/chwang/workspace/baina/DeepLearning/neural_style/tfnet/data/prisma/test/test5.jpg
+2016-09-23 18:10:20,158 [INFO] Style loss @ relu1_1 : 106.806
+2016-09-23 18:10:20,591 [INFO] Style loss @ relu1_2 : 57274.8
+2016-09-23 18:10:21,196 [INFO] Style loss @ relu2_1 : 4934.58
+2016-09-23 18:10:22,099 [INFO] Style loss @ relu2_2 : 8496.94
+2016-09-23 18:10:23,062 [INFO] Style loss @ relu3_1 : 529.002
+2016-09-23 18:10:24,357 [INFO] Style loss @ relu4_1 : 4499.66
+2016-09-23 18:10:26,214 [INFO] Style loss @ relu5_1 : 0.0539916
+2016-09-23 18:10:27,454 [INFO] Content loss @ relu3_1 : 27814.3
+2016-09-23 18:10:30,477 [INFO] Content loss @ relu4_2 : 87156.3
+2016-09-23 18:10:33,518 [INFO] Style loss: 75841.8
+2016-09-23 18:10:36,606 [INFO] Content loss: 114971
+2016-09-23 18:10:36,613 [INFO] TV loss: 924.176
